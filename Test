@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Edgar</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/style.css" type="text/css">
+    <link rel="stylesheet" href="/media-queries.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+  </head>  
+
+  <body>
+    <h1>Edgar Castillo</h1>
+    
+    <p>
+      Soy foráneo. 
+    </p>
+    
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix --><h2>
+    Acerca de mí
+    </h2>
+    <p>
+      Nací en la ciudad de Saltillo, Coahuila. Estoy estudiando en el ITESM campus Monterrey. Me gustan los memes y soy buena gente cuando estoy en confianza.
+    </p>
+    <ul>
+      <li><h3>Corté cebolla sin llorar.</h3></li>
+      <li><h3>No vi el rey León.</h3></li>
+      <li><h3>Me duermo con calcetines.</h3></li>
+    </ul>
+    <img src="http://imagenesparacelulares.net/wp-content/uploads/2015/11/memesclasicos3.jpg">
+    <footer>
+      <a href="facebook.com" target="_blank">
+        <i class="mi nombre" ariahidden="true"></i>
+      </a>
+    </footer>
+  
+  
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+    <script src="https://button.glitch.me/button.js"></script>
+  </body> <p>
+  
+  </p>
+
+</html>
